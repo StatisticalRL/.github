@@ -7,6 +7,11 @@ In this repository, you will find 4 pacakages:
 - **experiments**: This defines useful tools to run and compare regret of multiple algorithms in the same environment, producing regret plots and log files directly usable in a research article.
 - **articles**: A list of articles using this library, with companion code to fully reproduce experiments from  these articles (using the version of the lib available at that time)
 
+## Installation
+
+    pip install statisticalRL==2.2507
+
+
 <!--
 
 **Here are some ideas to get you started:**
